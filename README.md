@@ -31,13 +31,13 @@ More info [here](https://bitcoinsv.io).
 <a name="libraries" />
 
 ## Libraries
-* [Bitcoin SV Lib](https://github.com/moneybutton/bitcoin-sv-lib)A pure and powerful JavaScript Bitcoin SV library. A fork of BitPay's bitcore-lib-cash, but for Bitcoin SV only. Maintained by Yours Inc.
-* [Electrum Client](https://github.com/you21979/node-electrum-client)Electrum Protocol Client for Node.js
+* [Bitcoin SV Lib](https://github.com/moneybutton/bitcoin-sv-lib) - A pure and powerful JavaScript Bitcoin SV library. A fork of BitPay's bitcore-lib-cash, but for Bitcoin SV only. Maintained by Yours Inc.
+* [Electrum Client](https://github.com/you21979/node-electrum-client) - Electrum Protocol Client for Node.js
 
 <a name="projects" />
 
 ## Projects
-* [BitSocket](https://bitsocket.org)Message Bus for Bitcoin
+* [BitSocket](https://bitsocket.org) - Message Bus for Bitcoin
 
 <a name="services" />
 
