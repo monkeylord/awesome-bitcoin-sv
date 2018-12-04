@@ -31,7 +31,7 @@ More info [here](https://bitcoinsv.io).
 <a name="libraries" />
 
 ## Libraries
-* [Bitcoin SV Lib](https://github.com/moneybutton/bitcoin-sv-lib) - A pure and powerful JavaScript Bitcoin SV library. A fork of BitPay's bitcore-lib-cash, but for Bitcoin SV only. Maintained by Yours Inc.
+* [Bitcoin SV Lib](https://github.com/moneybutton/bsv) - A pure and powerful JavaScript Bitcoin SV library. A fork of BitPay's bitcore-lib-cash, but for Bitcoin SV only. Maintained by Yours Inc.
 * [Electrum Client](https://github.com/you21979/node-electrum-client) - Electrum Protocol Client for Node.js
 * [bitcoinfilesjs](https://github.com/simpleledger/bitcoinfilesjs) - bitcoinfilesjs is a JavaScript Library for building transactions for Bitcoin Files Protocol (BFP).
 
