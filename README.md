@@ -43,6 +43,7 @@ More info [here](https://bitcoinsv.io).
 
 ## Services
 * [BitDB](https://bitdb.network/) - an autonomous database that continuously synchronizes itself with Bitcoin
+* [SearchBSV](http://www.searchbsv.com/) - A search engine that search everything on BSV.
 
 <a name="talks-and-papers" />
 
