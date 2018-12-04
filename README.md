@@ -1,7 +1,7 @@
 # awesome-bitcoin-sv [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of bitcoin-sv services and tools for software developers
 
-Bitcoin-sv is oringinally bitcoin, so [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) is referred here.
+Bitcoin-sv is originally bitcoin, so [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) is referred here.
 
 ## What is Bitcoin-SV?
 
@@ -33,6 +33,7 @@ More info [here](https://bitcoinsv.io).
 ## Libraries
 * [Bitcoin SV Lib](https://github.com/moneybutton/bitcoin-sv-lib) - A pure and powerful JavaScript Bitcoin SV library. A fork of BitPay's bitcore-lib-cash, but for Bitcoin SV only. Maintained by Yours Inc.
 * [Electrum Client](https://github.com/you21979/node-electrum-client) - Electrum Protocol Client for Node.js
+* [bitcoinfilesjs](https://github.com/simpleledger/bitcoinfilesjs) - bitcoinfilesjs is a JavaScript Library for building transactions for Bitcoin Files Protocol (BFP).
 
 <a name="projects" />
 
