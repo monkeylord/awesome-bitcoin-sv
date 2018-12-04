@@ -44,6 +44,7 @@ More info [here](https://bitcoinsv.io).
 ## Services
 * [BitDB](https://bitdb.network/) - an autonomous database that continuously synchronizes itself with Bitcoin
 * [SearchBSV](http://www.searchbsv.com/) - A search engine that search everything on BSV.
+* [BitIndex](http://www.bitindex.network/) - Easily query utxo's and wallet balances from a simple API.
 
 <a name="talks-and-papers" />
 
@@ -54,6 +55,7 @@ More info [here](https://bitcoinsv.io).
 <a name="bsv-powered-by" />
 
 ## Powered by Bitcoin-SV
+* [Money Button](https://www.moneybutton.com/) - a digital currency payments button for websites and apps.
 
 <a name="videos" />
 
@@ -70,6 +72,7 @@ More info [here](https://bitcoinsv.io).
 ## Community
 * [Craig S Wright on Twitter](https://twitter.com/proffaustus)
 * [Reddit](https://www.reddit.com/r/bitcoinsv)
+* [Another Reddit](https://www.reddit.com/r/bitcoincashsv)
 
 <a name="contributions" />
 
