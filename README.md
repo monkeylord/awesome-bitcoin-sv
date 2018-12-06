@@ -27,6 +27,7 @@ More info [here](https://bitcoinsv.io).
 <a name="metanet" />
 
 ## MetaNet
+* CSW's talk on IP to IP Transfer [1](https://medium.com/@craig_10243/p2p-and-returning-ip-and-domain-based-transfers-9943d32bd38e) [2](https://medium.com/@craig_10243/bitcoin-as-the-base-layer-cff28c5dab9c) [3](https://medium.com/@craig_10243/ipv6-with-cga-and-bitcoin-a761d0185d5d) [4](https://medium.com/@craig_10243/the-secure-bitcoin-internet-2f589d81890f)
 
 <a name="libraries" />
 
@@ -74,6 +75,11 @@ More info [here](https://bitcoinsv.io).
 * [Craig S Wright on Twitter](https://twitter.com/proffaustus)
 * [Reddit](https://www.reddit.com/r/bitcoinsv)
 * [Another Reddit](https://www.reddit.com/r/bitcoincashsv)
+
+<a name="tutorial" />
+
+## Tutorial
+* [bitcoins  the hard way: Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
 
 <a name="contributions" />
 
