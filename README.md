@@ -27,7 +27,7 @@ More info [here](https://bitcoinsv.io).
 <a name="metanet" />
 
 ## MetaNet
-* CSW's talk on IP to IP Transfer [1](https://medium.com/@craig_10243/p2p-and-returning-ip-and-domain-based-transfers-9943d32bd38e) [2](https://medium.com/@craig_10243/bitcoin-as-the-base-layer-cff28c5dab9c) [3](https://medium.com/@craig_10243/ipv6-with-cga-and-bitcoin-a761d0185d5d) [4](https://medium.com/@craig_10243/the-secure-bitcoin-internet-2f589d81890f)
+* CSW's talk on IP to IP Transfer [1](https://medium.com/@craig_10243/p2p-and-returning-ip-and-domain-based-transfers-9943d32bd38e) [2](https://medium.com/@craig_10243/bitcoin-as-the-base-layer-cff28c5dab9c) [3](https://medium.com/@craig_10243/ipv6-with-cga-and-bitcoin-a761d0185d5d) [4](https://medium.com/@craig_10243/the-secure-bitcoin-internet-2f589d81890f) [5](https://medium.com/@craig_10243/nsequence-and-p2p-exchange-9e4cbf32124c)
 
 <a name="libraries" />
 
