@@ -39,6 +39,7 @@ More info [here](https://bitcoinsv.io).
 * [Electrum Client](https://github.com/you21979/node-electrum-client) - Electrum Protocol Client for Node.js
 * [bitcoinfilesjs](https://github.com/simpleledger/bitcoinfilesjs) - bitcoinfilesjs is a JavaScript Library for building transactions for Bitcoin Files Protocol (BFP).
 * ECIES - Encrypt message with Bitcoin PublicKey, decrypt it with PrivateKey. BIE1 format, Electrum/Electron Cash Compatible. [Javascript](https://github.com/monkeylord/electrum-ecies)/[Go](https://github.com/gitzhou/bitcoin-ecies)
+* [BitSV](https://github.com/AustEcon/bitsv) - An easy-to-use Python 3, Bitcoin SV library.
 
 <a name="projects" />
 
