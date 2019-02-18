@@ -27,10 +27,13 @@ More info [here](https://bitcoinsv.io).
 <a name="metanet" />
 
 ## MetaNet
-* CSW's talk on IP to IP Transfer [1](https://medium.com/@craig_10243/p2p-and-returning-ip-and-domain-based-transfers-9943d32bd38e) [2](https://medium.com/@craig_10243/bitcoin-as-the-base-layer-cff28c5dab9c) [3](https://medium.com/@craig_10243/ipv6-with-cga-and-bitcoin-a761d0185d5d) [4](https://medium.com/@craig_10243/the-secure-bitcoin-internet-2f589d81890f) [5](https://medium.com/@craig_10243/nsequence-and-p2p-exchange-9e4cbf32124c)
+* CSW's talk on [metanet](https://medium.com/@craig_10243/the-start-of-metanet-ef0560e81505). see also [1](https://medium.com/@craig_10243/p2p-and-returning-ip-and-domain-based-transfers-9943d32bd38e) [2](https://medium.com/@craig_10243/bitcoin-as-the-base-layer-cff28c5dab9c) [3](https://medium.com/@craig_10243/ipv6-with-cga-and-bitcoin-a761d0185d5d) [4](https://medium.com/@craig_10243/the-secure-bitcoin-internet-2f589d81890f) [5](https://medium.com/@craig_10243/nsequence-and-p2p-exchange-9e4cbf32124c)
 * [BitChat](https://bitchat.bitdb.network/) - An on-chain chatroom, free for now.
 * [Poster.cash](https://poster.cash) - Social network client using the Memo protocol. It's powered by Bitdb and only communicates with a Bitdb node.
 * [CryptoGraffiti](https://cryptograffiti.info/) - Store text/files on-chain. [Introduction](https://cryptograffiti.info/#d1e9e0047fca4f49ef9e36e422677a52e45379928cfe1f8262223362b70cd0be).
+* Game on Chain - [Mechine Learning](https://bico.media/7a304727ff7fc11916d281118a270e7faea5f48a03713f250ea416109a082593)  [Piano](https://bico.media/0a68bb439a78ab5a721f0a139abedcbe0259f7f050fbba2ebed6006bb953bd5e)  [Tetris](https://bico.media/14734bc19a533ab6c510ebd419ad1e980603b1f62084b3f24b7c3d440ec6bfea)
+* Application on Chain - [Wish](https://bico.media/047df3e724ca92004e4d1f324d02e3b6f86bb5de46a6f33c210d2aefd94182d5)  [BeeSV](https://bico.media/e701a8d3e70f0542ace1503b1a660aa0a685dfad9151f5fecc82d9a919bf5603)
+* Content on Chain - [Video](https://bico.media/8d29c20fd086ad5aa859037eb9bb25aaf6ebb84706965c4c662bbdb40e9cba02)  
 
 <a name="libraries" />
 
@@ -45,12 +48,17 @@ More info [here](https://bitcoinsv.io).
 
 ## Projects
 * [BitSocket](https://bitsocket.org) - Message Bus for Bitcoin
+* [B Protocol](https://github.com/unwriter/B) - Bitcoin Simple Storage Protocol. [Try it](https://b.bitdb.network)
+* [Datapay](https://github.com/unwriter/datapay) - Build and broadcast data transactions to the Bitcoin SV blockchain.
+* [BitCom](https://github.com/unwriter/Bitcom) - Bitcoin Computer.
 
 <a name="services" />
 
 ## Services
+* Gateway  - Browse/Upload metanet content. [Bico.Media](https://bico.media/) [Pagereturn](https://www.pagereturn.com/) [Bitcoinfiles](https://www.bitcoinfiles.org/) [Bitpaste](https://www.bitpaste.app/)
 * [BitDB](https://bitdb.network/) - an autonomous database that continuously synchronizes itself with Bitcoin
-* [SearchBSV](http://www.searchbsv.com/) - A search engine that search everything on BSV.
+* [Oyo](https://oyo.cash/) - convinient way to search the Bitcoin SV blockchain.
+* [PageShot](https://pageshot.bitcoinsv.si/) - Generate image from URL and store it in blockchain.
 * [BitIndex](http://www.bitindex.network/) - Easily query utxo's and wallet balances from a simple API.
 * Maybe you would like to watch [unwriter](https://github.com/unwriter).
 
@@ -65,6 +73,7 @@ More info [here](https://bitcoinsv.io).
 ## Powered by Bitcoin-SV
 * [Money Button](https://www.moneybutton.com/) - a digital currency payments button for websites and apps.
 * [Tokenized](https://tokenized.cash/) - a comprehensive platform that makes it easy for users to issue, manage and trade security and utility tokens controlled by low-cost and secure smart contracts.
+* [Yours](https://www.yours.org/) - a social network where you can earn Bitcoin SV if you create value.
 
 
 <a name="videos" />
@@ -80,6 +89,8 @@ More info [here](https://bitcoinsv.io).
 <a name="community" />
 
 ## Community
+* [Metanet-ICU](https://metanet.icu/)
+* [unwriter's slack](https://www.bitdb.network/atlantis)
 * [Craig S Wright on Twitter](https://twitter.com/proffaustus)
 * [Reddit](https://www.reddit.com/r/bitcoinsv)
 * [Another Reddit](https://www.reddit.com/r/bitcoincashsv)
