@@ -59,7 +59,7 @@ More info [here](https://bitcoinsv.io).
 * [BitSocket](https://bitsocket.org) - Message Bus for Bitcoin
 * [B Protocol](https://github.com/unwriter/B) - Bitcoin Simple Storage Protocol. [Try it](https://b.bitdb.network)
 * [Datapay](https://github.com/unwriter/datapay) - Build and broadcast data transactions to the Bitcoin SV blockchain.
-* [BitCom](https://github.com/unwriter/Bitcom) - Bitcoin Computer.
+* [Planaria](https://planaria.network/) - Infinite API over Bitcoin.
 
 <a name="services" />
 
