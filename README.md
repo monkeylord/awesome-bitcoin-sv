@@ -42,6 +42,7 @@ More info [here](https://bitcoinsv.io).
 * Onchain Blog - [Monkeylord's Blog](https://bico.media/455128ddc7aa80efbbfef71c6db2b3a44c54a6856af9b708c3e897f000d074eb)
 * [BitPaste](https://www.bitpaste.app/) - Store and share plain text snippets on the Bitcoin (SV) blockchain.
 * [BitStagram](https://bitstagram.bitdb.network/) -  Share pictures and get tips.
+* [Bitsent](http://bitsent.net/) -  Easily share encrypted immutable files.
 
 <a name="libraries" />
 
