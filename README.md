@@ -1,11 +1,11 @@
 # awesome-bitcoin-sv [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of bitcoin-sv services and tools for software developers
+A curated list of Bitcoin SV services and tools for software developers.
 
-Bitcoin-sv is originally bitcoin, so [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) is referred here.
+Bitcoin SV is the original Bitcoin, so [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) is referred here.
 
-## What is Bitcoin-SV?
+## What is Bitcoin SV?
 
-Bitcoin Satoshi Vision (SV) is the name of open-source software which enables the use of Bitcoin Cash.
+Bitcoin Satoshi Vision (SV) is the Bitcoin that follows the original design and stable protocol of Satoshi Nakamoto’s white paper. By achieving the original on-chain scaling vision, BSV aims to become the peer to peer electronic cash and value transmission network for global use.
 
 More info [here](https://bitcoinsv.io).
 
@@ -17,7 +17,7 @@ More info [here](https://bitcoinsv.io).
 - [Projects](#projects)
 - [Services](#services)
 - [Talks & Papers](#talks-and-papers)
-- [Powered by Bitcoin-SV](#bsv-powered-by)
+- [Powered by Bitcoin SV](#bsv-powered-by)
 - [Videos](#videos)
 - [Blog posts](#blogs)
 - [Community](#community)
@@ -35,6 +35,7 @@ More info [here](https://bitcoinsv.io).
 * Content on Chain - [Video](https://bico.media/6589ea97bc1bd74ddd782c122594e711d12efed5eac85ccbae432689b9008c4c) [Shem's album](https://bico.media/0f11d8e04040d75d7551badc6e5d0d2e5a88e224d34a4952583ee7d0d83e75c7)
 * [BitChat](https://bitchat.bitdb.network/) - An on-chain chatroom, free for now.
 * [BSV Controlled Device](https://www.twitch.tv/bsvcontrol) - Control the LEDs with an payment tx.
+* [TxGun](https://github.com/gitzhou/bsv-tx-gun) - A stress test prototype
 ### Applications
 * [Poster.cash](https://poster.cash) - Social network client using the Memo protocol. It's powered by Bitdb and only communicates with a Bitdb node.
 * [CryptoGraffiti](https://cryptograffiti.info/) - Store text/files on-chain. [Introduction](https://cryptograffiti.info/#d1e9e0047fca4f49ef9e36e422677a52e45379928cfe1f8262223362b70cd0be).
@@ -80,7 +81,7 @@ More info [here](https://bitcoinsv.io).
 
 <a name="bsv-powered-by" />
 
-## Powered by Bitcoin-SV
+## Powered by Bitcoin SV
 * [Money Button](https://www.moneybutton.com/) - a digital currency payments button for websites and apps.
 * [Tokenized](https://tokenized.cash/) - a comprehensive platform that makes it easy for users to issue, manage and trade security and utility tokens controlled by low-cost and secure smart contracts.
 * [Yours](https://www.yours.org/) - a social network where you can earn Bitcoin SV if you create value.
