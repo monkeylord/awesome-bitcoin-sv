@@ -110,6 +110,7 @@ More info [here](https://bitcoinsv.io).
 
 ## Tutorial
 * [bitcoins  the hard way: Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
+* [BSV Planaria框架技术总结一 节点搭建](https://zhuanlan.zhihu.com/p/64697171)
 
 <a name="contributions" />
 
