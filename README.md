@@ -9,7 +9,7 @@ Bitcoin Satoshi Vision (SV) is the Bitcoin that follows the original design and 
 
 More info [here](https://bitcoinsv.io).
 
-## Table of Contents
+## Contents
 
 - [MetaNet](#metanet)
 - [Libraries](#libraries)
@@ -34,7 +34,7 @@ More info [here](https://bitcoinsv.io).
 - Content on Chain - [Video](https://bico.media/6589ea97bc1bd74ddd782c122594e711d12efed5eac85ccbae432689b9008c4c) [Shem's album](https://bico.media/0f11d8e04040d75d7551badc6e5d0d2e5a88e224d34a4952583ee7d0d83e75c7)
 - [BitChat](https://bitchat.bitdb.network/) - An on-chain chatroom, free for now.
 - [BSV Controlled Device](https://www.twitch.tv/bsvcontrol) - Control the LEDs with an payment tx.
-- [TxGun](https://github.com/gitzhou/bsv-tx-gun) - A stress test prototype
+- [TxGun](https://github.com/gitzhou/bsv-tx-gun) - A stress test prototype.
 ### Applications
 - [MetaTalk](https://metatalk.io/) - An on-chain chatroom, with multiple channels.
 - [Dir.sv](https://dir.sv/) - An open source way to make money from organizing links on the blockchain.
@@ -50,8 +50,8 @@ More info [here](https://bitcoinsv.io).
 
 ## Libraries
 - [Bitcoin SV Lib](https://github.com/moneybutton/bsv) - A pure and powerful JavaScript Bitcoin SV library. A fork of BitPay's bitcore-lib-cash, but for Bitcoin SV only. Maintained by Yours Inc.
-- [Electrum Client](https://github.com/you21979/node-electrum-client) - Electrum Protocol Client for Node.js
-- [bitcoinfilesjs](https://github.com/simpleledger/bitcoinfilesjs) - bitcoinfilesjs is a JavaScript Library for building transactions for Bitcoin Files Protocol (BFP).
+- [Electrum Client](https://github.com/you21979/node-electrum-client) - Electrum Protocol Client for Node.js.
+- [bitcoinfilesjs](https://github.com/simpleledger/bitcoinfilesjs) - A JavaScript Library for building transactions for Bitcoin Files Protocol (BFP).
 - ECIES - Encrypt message with Bitcoin PublicKey, decrypt it with PrivateKey. BIE1 format, Electrum/Electron Cash Compatible. [JavaScript](https://github.com/monkeylord/electrum-ecies)/[Go](https://github.com/gitzhou/bitcoin-ecies)
 - [BitSV](https://github.com/AustEcon/bitsv) - An easy-to-use Python 3, Bitcoin SV library.
 - [bitcoinfiles-sdk](https://github.com/BitcoinFiles/bitcoinfiles-sdk) - Easily create, retrieve and search for Bitcoin Data Protocol (b:// files).
@@ -67,8 +67,9 @@ More info [here](https://bitcoinsv.io).
 <a name="services" />
 
 ## Services
-- Gateway  - Browse/Upload metanet content. [Bico.Media](https://bico.media/) [Pagereturn](https://www.pagereturn.com/) [Bitcoinfiles](https://www.bitcoinfiles.org/) [Bitpaste](https://www.bitpaste.app/)
-- [BitDB](https://bitdb.network/) - an autonomous database that continuously synchronizes itself with Bitcoin
+- Gateway  
+- Browse/Upload metanet content. [Bico.Media](https://bico.media/) [Pagereturn](https://www.pagereturn.com/) [Bitcoinfiles](https://www.bitcoinfiles.org/) [Bitpaste](https://www.bitpaste.app/)
+- [BitDB](https://bitdb.network/) - an autonomous database that continuously synchronizes itself with Bitcoin.
 - [Oyo](https://oyo.cash/) - Convinient way to search the Bitcoin SV blockchain.
 - [PageShot](https://pageshot.bitcoinsv.si/) - Generate image from URL and store it in blockchain.
 - [BitIndex](http://www.bitindex.network/) - Easily query utxo's and wallet balances from a simple API.
