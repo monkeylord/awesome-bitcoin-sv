@@ -128,3 +128,7 @@ Also, if you notice that a listing should be deprecated or replaced:
 * Not committed for long time (2~3 years).
 
 More info on the [guidelines](https://github.com/monkeylord/awesome-bitcoin-sv/blob/master/CONTRIBUTING.md)
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
