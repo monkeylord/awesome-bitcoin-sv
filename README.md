@@ -120,7 +120,7 @@ More info [here](https://bitcoinsv.io).
 ## Contributions
 Your contributions are always welcome!
 
-If you want to contribute to this list (please do), send me a pull request or contact me [@monkeylord](https://github.com/monkeylord)
+If you want to contribute to this list (please do), you can just do a pull request.
 
 Also, if you notice that a listing should be deprecated or replaced:
 
