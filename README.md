@@ -1,5 +1,5 @@
 # awesome-bitcoin-sv [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of Bitcoin SV services and tools for software developers.
+A curated list of Bitcoin SV services and tools for developers.
 
 Bitcoin SV is the original Bitcoin, so [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) is referred here.
 
