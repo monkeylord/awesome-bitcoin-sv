@@ -37,6 +37,8 @@ More info [here](https://bitcoinsv.io).
 * [BSV Controlled Device](https://www.twitch.tv/bsvcontrol) - Control the LEDs with an payment tx.
 * [TxGun](https://github.com/gitzhou/bsv-tx-gun) - A stress test prototype
 ### Applications
+* [MetaTalk](https://metatalk.io/) - An on-chain chatroom, with multiple channels.
+* [Dir.sv](https://dir.sv/) - An open source way to make money from organizing links on the blockchain.
 * [Poster.cash](https://poster.cash) - Social network client using the Memo protocol. It's powered by Bitdb and only communicates with a Bitdb node.
 * [CryptoGraffiti](https://cryptograffiti.info/) - Store text/files on-chain. [Introduction](https://cryptograffiti.info/#d1e9e0047fca4f49ef9e36e422677a52e45379928cfe1f8262223362b70cd0be).
 * [BitDiary](https://bico.media/6c0fd6bc82865d65ca888b8f4532336c3c018745c4f53c591407d74f3e03c5fb) - An on-chain diary.
