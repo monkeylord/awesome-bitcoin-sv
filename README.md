@@ -3,7 +3,7 @@
 
 Bitcoin SV is the original Bitcoin, so [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) is referred here.
 
-## What is Bitcoin SV
+*What is Bitcoin SV*
 
 Bitcoin Satoshi Vision (SV) is the Bitcoin that follows the original design and stable protocol of Satoshi Nakamoto’s white paper. By achieving the original on-chain scaling vision, BSV aims to become the peer to peer electronic cash and value transmission network for global use.
 
@@ -15,7 +15,6 @@ More info [here](https://bitcoinsv.io).
 - [Libraries](#libraries)
 - [Projects](#projects)
 - [Services](#services)
-- [Talks & Papers](#talks-and-papers)
 - [Powered by Bitcoin SV](#bsv-powered-by)
 - [Videos](#videos)
 - [Blog posts](#blogs)
@@ -68,8 +67,8 @@ More info [here](https://bitcoinsv.io).
 
 ## Services
 - Gateway  
-- Browse/Upload metanet content. [Bico.Media](https://bico.media/) [Pagereturn](https://www.pagereturn.com/) [Bitcoinfiles](https://www.bitcoinfiles.org/) [Bitpaste](https://www.bitpaste.app/)
-- [BitDB](https://bitdb.network/) - an autonomous database that continuously synchronizes itself with Bitcoin.
+- Browse/Upload metanet content. [Bico.Media](https://bico.media/) [Bitcoinfiles](https://www.bitcoinfiles.org/) [Bitpaste](https://www.bitpaste.app/)
+- [BitDB](https://bitdb.network/) - An autonomous database that continuously synchronizes itself with Bitcoin.
 - [Oyo](https://oyo.cash/) - Convinient way to search the Bitcoin SV blockchain.
 - [PageShot](https://pageshot.bitcoinsv.si/) - Generate image from URL and store it in blockchain.
 - [BitIndex](http://www.bitindex.network/) - Easily query utxo's and wallet balances from a simple API.
