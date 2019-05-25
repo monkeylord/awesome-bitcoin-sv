@@ -15,7 +15,7 @@ More info [here](https://bitcoinsv.io).
 - [Libraries](#libraries)
 - [Projects](#projects)
 - [Services](#services)
-- [Powered by](#bsv-powered-by)
+- [Powered by](#poweredby)
 - [Talks & Blogs](#talks-and-blogs)
 - [Community](#community)
 - [Tutorials](#tutorials)
@@ -46,7 +46,8 @@ More info [here](https://bitcoinsv.io).
 - [BSV Controlled Device](https://www.twitch.tv/bsvcontrol) - Control the LEDs with an payment tx.
 - [TxGun](https://github.com/gitzhou/bsv-tx-gun) - A stress test prototype.
 - Onchain Blog - [Monkeylord's Blog](https://bico.media/455128ddc7aa80efbbfef71c6db2b3a44c54a6856af9b708c3e897f000d074eb)
-- <a name="libraries" />
+
+<a name="libraries" />
 
 ## Libraries
 - [Bitcoin SV Lib](https://github.com/moneybutton/bsv) - A pure and powerful JavaScript Bitcoin SV library. A fork of BitPay's bitcore-lib-cash, but for Bitcoin SV only. Maintained by Yours Inc.
@@ -74,7 +75,7 @@ More info [here](https://bitcoinsv.io).
 - [BitIndex](http://www.bitindex.network/) - Easily query utxo's and wallet balances from a simple API.
 - Maybe you would like to watch [unwriter](https://github.com/unwriter).
 
-<a name="bsv-powered-by" />
+<a name="poweredby" />
 
 ## Powered by
 - [Money Button](https://www.moneybutton.com/) - A digital currency payments button for websites and apps.
@@ -122,3 +123,5 @@ More info on the [guidelines](https://github.com/monkeylord/awesome-bitcoin-sv/b
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Monkeylord](https://github.com/monkeylord/) has waived all copyright and related or neighboring rights to this work.
