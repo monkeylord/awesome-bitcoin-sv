@@ -64,6 +64,7 @@ More info [here](https://bitcoinsv.io).
 - [B Protocol](https://github.com/unwriter/B) - Bitcoin Simple Storage Protocol. [Try it](https://b.bitdb.network)
 - [Datapay](https://github.com/unwriter/datapay) - Build and broadcast data transactions to the Bitcoin SV blockchain.
 - [Planaria](https://planaria.network/) - Infinite API over Bitcoin.
+- [BSV Editor](http://www.bowmain.co.uk/BSV/index.html) - A Bitcoin script compiler/debugger with GUI.
 
 <a name="services" />
 
