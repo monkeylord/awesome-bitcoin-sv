@@ -75,6 +75,7 @@ More info [here](https://bitcoinsv.io).
 - [PageShot](https://pageshot.bitcoinsv.si/) - Generate image from URL and store it in blockchain.
 - [BitIndex](http://www.bitindex.network/) - Easily query utxo's and wallet balances from a simple API.
 - Maybe you would like to watch [unwriter](https://github.com/unwriter).
+- [SporeStack](https://sporestack.com) - Launch VPS servers for Bitcoin SV. API-driven.
 
 <a name="poweredby" />
 
