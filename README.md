@@ -37,6 +37,7 @@ More info [here](https://bitcoinsv.io).
 - [BitStagram](https://bitstagram.bitdb.network/) -  Share pictures and get tips.
 - [Bitsent](http://bitsent.net/) -  Easily share encrypted immutable files.
 - [etched](https://etched.page/) - An internet archive tool that permanently timestamps and stores web pages and images directly onto bitcoin itself.
+- [audioB](https://www.audiob.app/) -  Discover and share original audio created by independent music producers, podcasters, DJs and more.
 
 ### Demos
 - Game on Chain - [Mechine Learning](https://bico.media/7a304727ff7fc11916d281118a270e7faea5f48a03713f250ea416109a082593)  [Piano](https://bico.media/0a68bb439a78ab5a721f0a139abedcbe0259f7f050fbba2ebed6006bb953bd5e)  [Tetris](https://bico.media/14734bc19a533ab6c510ebd419ad1e980603b1f62084b3f24b7c3d440ec6bfea)
