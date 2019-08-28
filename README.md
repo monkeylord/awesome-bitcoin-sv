@@ -51,8 +51,8 @@ More info [here](https://bitcoinsv.io).
 #### Commerical
 - [CityOnChain](http://cityonchain.com/) - City album.
 - [SporeStack](https://sporestack.com) - Launch VPS servers for Bitcoin SV. API-driven.
-#### Others & Demos
 - [audioB](https://www.audiob.app/) -  Discover and share original audio created by independent music producers, podcasters, DJs and more.
+#### Others & Demos
 - Game on Chain - [Mechine Learning](https://bico.media/7a304727ff7fc11916d281118a270e7faea5f48a03713f250ea416109a082593)  [Piano](https://bico.media/0a68bb439a78ab5a721f0a139abedcbe0259f7f050fbba2ebed6006bb953bd5e)  [Tetris](https://bico.media/14734bc19a533ab6c510ebd419ad1e980603b1f62084b3f24b7c3d440ec6bfea)
 - Application on Chain - [Wish](https://bico.media/047df3e724ca92004e4d1f324d02e3b6f86bb5de46a6f33c210d2aefd94182d5)  [BeeSV](https://bico.media/e701a8d3e70f0542ace1503b1a660aa0a685dfad9151f5fecc82d9a919bf5603)
 - Content on Chain - [Video](https://bico.media/6589ea97bc1bd74ddd782c122594e711d12efed5eac85ccbae432689b9008c4c) [Shem's album](https://bico.media/0f11d8e04040d75d7551badc6e5d0d2e5a88e224d34a4952583ee7d0d83e75c7)
