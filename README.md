@@ -28,7 +28,7 @@ More info [here](https://bitcoinsv.io).
 ### Introductions
 - [Technical Summary from nChain](https://drive.google.com/viewerng/viewer?url=https://nchain.com/app/uploads/2019/06/The-Metanet-Technical-Summary-v1.0.pdf)
 - [The Metanet Starts](https://medium.com/@_unwriter/the-metanet-starts-84f255a65782)
-- Edge Cases: The Metanet Blog [Part1](https://medium.com/nchain/edge-cases-the-metanet-blog-41b608c8fe67) [Part2](https://medium.com/nchain/edge-cases-the-metanet-blog-92f43c48490d)
+- Edge Cases: The Metanet Blog [Part1](https://medium.com/nchain/edge-cases-the-metanet-blog-41b608c8fe67) [Part2](https://medium.com/nchain/edge-cases-the-metanet-blog-92f43c48490d) [Part2.1](https://medium.com/nchain/edge-cases-the-metanet-blog-c0e794d1c9c5)
 - some CSW's blog about [metanet](https://medium.com/@craig_10243/the-start-of-metanet-ef0560e81505). see also [1](https://medium.com/@craig_10243/p2p-and-returning-ip-and-domain-based-transfers-9943d32bd38e) [2](https://medium.com/@craig_10243/bitcoin-as-the-base-layer-cff28c5dab9c) [3](https://medium.com/@craig_10243/ipv6-with-cga-and-bitcoin-a761d0185d5d) [4](https://medium.com/@craig_10243/the-secure-bitcoin-internet-2f589d81890f) [5](https://medium.com/@craig_10243/nsequence-and-p2p-exchange-9e4cbf32124c)
 ### Applications
 #### Social Media
