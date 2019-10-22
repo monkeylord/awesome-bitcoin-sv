@@ -107,6 +107,7 @@ More info [here](https://bitcoinsv.io).
 - [The resolution of the Bitcoin Cash experiment](https://medium.com/@_unwriter/the-resolution-of-the-bitcoin-cash-experiment-52b86d8cd187)
 - [Craig S Wright](https://medium.com/@craig_10243)
 - [unwriter](https://medium.com/@_unwriter)
+- [Jack Davies](https://medium.com/@jack.d)
 
 <a name="community" />
 
