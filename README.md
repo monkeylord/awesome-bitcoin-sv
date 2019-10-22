@@ -59,7 +59,7 @@ More info [here](https://bitcoinsv.io).
 - [BitChat](https://bitchat.bitdb.network/) - An on-chain chatroom, free for now.
 - [BSV Controlled Device](https://www.twitch.tv/bsvcontrol) - Control the LEDs with an payment tx.
 - [TxGun](https://github.com/gitzhou/bsv-tx-gun) - A stress test prototype.
-- Onchain Blog - [Monkeylord's Blog](https://bico.media/1HxQvgt7EnhTqP1spw3Tudidh28w4caXqs/2019/09/01/Build-Your-Blog-on-BSV-with-D-Protocol/index.html)
+- Onchain Blog - [Monkeylord's blog](https://bico.media/1HxQvgt7EnhTqP1spw3Tudidh28w4caXqs/2019/09/01/Build-Your-Blog-on-BSV-with-D-Protocol/index.html) [jwilliams's blog](https://bico.media/15aYtcc4BdfdMWzcqWU5j77AkfUJCboLrS/index.html)
 
 <a name="libraries" />
 
