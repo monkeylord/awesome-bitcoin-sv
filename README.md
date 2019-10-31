@@ -82,6 +82,7 @@ More info [here](https://bitcoinsv.io).
 - [paymail](https://github.com/bitcoin-sv-specs/paymail) - BSV paymail protocol. [express implementation](https://github.com/moneybutton/express-paymail) [client](https://github.com/moneybutton/paymail-client)
 - [bottle](https://github.com/interplanaria/bottle) - A bitcoin browser.
 - [BSV Editor](http://www.bowmain.co.uk/BSV/index.html) - A Bitcoin script compiler/debugger with GUI.
+- [planter](https://github.com/MerlinB/planter) - A library for fetching and creating Metanet nodes on the Bitcoin SV blockchain.
 
 <a name="infrastructure" />
 
