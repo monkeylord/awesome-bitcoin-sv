@@ -38,6 +38,7 @@ More info [here](https://bitcoinsv.io).
 - [MetaTalk](https://metatalk.io/) - An on-chain chatroom, with multiple channels.
 - [BitStagram](https://bitstagram.bitdb.network/) -  Share pictures and get tips.
 - [Yours](https://www.yours.org/) - A social network where you can earn Bitcoin SV if you create value.
+- [Showjob](https://www.showjob.app) - A freelance app with BSV.
 #### Storage
 - [Bitsent](http://bitsent.net/) -  Easily share encrypted immutable files.
 - [BitPaste](https://www.bitpaste.app/) - Store and share plain text snippets on the Bitcoin (SV) blockchain.
