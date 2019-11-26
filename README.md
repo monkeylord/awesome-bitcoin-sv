@@ -40,6 +40,7 @@ More info [here](https://bitcoinsv.io).
 - [Yours](https://www.yours.org/) - A social network where you can earn Bitcoin SV if you create value.
 - [Showjob](https://www.showjob.app) - A freelance app with BSV.
 #### Storage
+- [Opassum](https://opassum.com/) - An onchain password manager.
 - [Bitsent](http://bitsent.net/) -  Easily share encrypted immutable files.
 - [BitPaste](https://www.bitpaste.app/) - Store and share plain text snippets on the Bitcoin (SV) blockchain.
 - [CryptoGraffiti](https://cryptograffiti.info/) - Store text/files on-chain. [Introduction](https://cryptograffiti.info/#d1e9e0047fca4f49ef9e36e422677a52e45379928cfe1f8262223362b70cd0be).
