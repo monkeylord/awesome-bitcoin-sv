@@ -46,6 +46,7 @@ More info [here](https://bitcoinsv.io).
 - [CryptoGraffiti](https://cryptograffiti.info/) - Store text/files on-chain. [Introduction](https://cryptograffiti.info/#d1e9e0047fca4f49ef9e36e422677a52e45379928cfe1f8262223362b70cd0be).
 - [BitDiary](https://bico.media/6c0fd6bc82865d65ca888b8f4532336c3c018745c4f53c591407d74f3e03c5fb) - An on-chain diary.
 #### Service & Tool
+- [sCrypt](https://scrypt.io/) - Write Bitcoin smart contracts in a modern high-level programming language.
 - [Dir.sv](https://dir.sv/) - An open source way to make money from organizing links on the blockchain.
 - [etched](https://etched.page/) - An internet archive tool that permanently timestamps and stores web pages and images directly onto bitcoin itself.
 - [PageShot](https://pageshot.bitcoinsv.si/) - Generate image from URL and store it in blockchain.
