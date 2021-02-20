@@ -101,7 +101,7 @@ More info [here](https://bitcoinsv.io).
 
 ## Powered by
 - [Money Button](https://www.moneybutton.com/) - A digital currency payments button for websites and apps.
-- [Tokenized](https://tokenized.cash/) - A comprehensive platform that makes it easy for users to issue, manage and trade security and utility tokens controlled by low-cost and secure smart contracts.
+- [Tokenized](https://tokenized.com/) - A comprehensive platform that makes it easy for users to issue, manage and trade security and utility tokens controlled by low-cost and secure smart contracts.
 
 
 <a name="talks--blogs" />
