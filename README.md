@@ -52,6 +52,7 @@ More info [here](https://bitcoinsv.io).
 - [PageShot](https://pageshot.bitcoinsv.si/) - Generate image from URL and store it in blockchain.
 - [Codeonchain](http://codeonchain.network/) - Upload a repository to metanet.
 #### Commerical
+- [GoBitFundMe](https://gobitfundme.com/) - GoBitFundMe is designed to help people come together to raise money using the full power of blockchain technology.
 - [CityOnChain](http://cityonchain.com/) - City album.
 - [SporeStack](https://sporestack.com) - Launch VPS servers for Bitcoin SV. API-driven.
 - [audioB](https://www.audiob.app/) -  Discover and share original audio created by independent music producers, podcasters, DJs and more.
