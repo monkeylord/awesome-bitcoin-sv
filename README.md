@@ -25,12 +25,15 @@ More info [here](https://bitcoinsv.io).
 <a name="metanet" />
 
 ## MetaNet
+
 ### Introductions
 - [Technical Summary from nChain](https://drive.google.com/viewerng/viewer?url=https://nchain.com/app/uploads/2019/06/The-Metanet-Technical-Summary-v1.0.pdf)
 - [The Metanet Starts](https://medium.com/@_unwriter/the-metanet-starts-84f255a65782)
 - Edge Cases: The Metanet Blog [Part1](https://medium.com/nchain/edge-cases-the-metanet-blog-41b608c8fe67) [Part2](https://medium.com/nchain/edge-cases-the-metanet-blog-92f43c48490d) [Part2.1](https://medium.com/nchain/edge-cases-the-metanet-blog-c0e794d1c9c5)
 - some CSW's blog about [metanet](https://medium.com/@craig_10243/the-start-of-metanet-ef0560e81505). see also [1](https://medium.com/@craig_10243/p2p-and-returning-ip-and-domain-based-transfers-9943d32bd38e) [2](https://medium.com/@craig_10243/bitcoin-as-the-base-layer-cff28c5dab9c) [3](https://medium.com/@craig_10243/ipv6-with-cga-and-bitcoin-a761d0185d5d) [4](https://medium.com/@craig_10243/the-secure-bitcoin-internet-2f589d81890f) [5](https://medium.com/@craig_10243/nsequence-and-p2p-exchange-9e4cbf32124c)
+
 ### Applications
+
 #### Social Media
 - [Twetch](https://twetch.app/) - An on-chain twitter.
 - [WeiBlock](https://weiblock.app) - An on-chain microblog.
@@ -39,26 +42,37 @@ More info [here](https://bitcoinsv.io).
 - [BitStagram](https://bitstagram.bitdb.network/) -  Share pictures and get tips.
 - [Yours](https://www.yours.org/) - A social network where you can earn Bitcoin SV if you create value.
 - [Showjob](https://www.showjob.app) - A freelance app with BSV.
+- [BlockPost](https://blockpost.network/) - The decentralized, permissionless, social network.
+- [Relica](https://relica.world/) - Post photos. Make money. Maintain ownership.
+- [BitSurf](https://www.bitsurf.network/) - Alternative application to browse Twetch posts.
+- [WeiBlock](https://weiblock.app/) - Social media application based in China.
+
 #### Storage
 - [Opassum](https://opassum.com/) - An onchain password manager.
 - [Bitsent](http://bitsent.net/) -  Easily share encrypted immutable files.
 - [BitPaste](https://www.bitpaste.app/) - Store and share plain text snippets on the Bitcoin (SV) blockchain.
 - [CryptoGraffiti](https://cryptograffiti.info/) - Store text/files on-chain. [Introduction](https://cryptograffiti.info/#d1e9e0047fca4f49ef9e36e422677a52e45379928cfe1f8262223362b70cd0be).
 - [BitDiary](https://bico.media/6c0fd6bc82865d65ca888b8f4532336c3c018745c4f53c591407d74f3e03c5fb) - An on-chain diary.
+
 #### Service & Tool
 - [sCrypt](https://scrypt.io/) - Write Bitcoin smart contracts in a modern high-level programming language.
 - [Dir.sv](https://dir.sv/) - An open source way to make money from organizing links on the blockchain.
 - [etched](https://etched.page/) - An internet archive tool that permanently timestamps and stores web pages and images directly onto bitcoin itself.
 - [PageShot](https://pageshot.bitcoinsv.si/) - Generate image from URL and store it in blockchain.
 - [Codeonchain](http://codeonchain.network/) - Upload a repository to metanet.
-#### Commerical
+- [PayPresto](https://www.paypresto.co/) - The simplest way to let your users fund data transactions in your BSV app.
+
+#### Commercial
 - [GoBitFundMe](https://gobitfundme.com/) - GoBitFundMe is designed to help people come together to raise money using the full power of blockchain technology.
 - [CityOnChain](http://cityonchain.com/) - City album.
 - [SporeStack](https://sporestack.com) - Launch VPS servers for Bitcoin SV. API-driven.
 - [audioB](https://www.audiob.app/) -  Discover and share original audio created by independent music producers, podcasters, DJs and more.
+- [TonicPow](https://tonicpow.com) -  Promotion marketplace built using Bitcoin
+- [Chronos](https://www.chronoslabs.net/) - Chronos Labs is a small Bitcoin software house, building products and open source software on Bitcoin (SV).
+
 #### Others & Demos
 - [Threshold Signature by Bitmesh](https://bitmeshexchange.github.io/thresholdsig/)
-- Game on Chain - [Mechine Learning](https://bico.media/7a304727ff7fc11916d281118a270e7faea5f48a03713f250ea416109a082593)  [Piano](https://bico.media/0a68bb439a78ab5a721f0a139abedcbe0259f7f050fbba2ebed6006bb953bd5e)  [Tetris](https://bico.media/14734bc19a533ab6c510ebd419ad1e980603b1f62084b3f24b7c3d440ec6bfea)
+- Game on Chain - [Machine Learning](https://bico.media/7a304727ff7fc11916d281118a270e7faea5f48a03713f250ea416109a082593)  [Piano](https://bico.media/0a68bb439a78ab5a721f0a139abedcbe0259f7f050fbba2ebed6006bb953bd5e)  [Tetris](https://bico.media/14734bc19a533ab6c510ebd419ad1e980603b1f62084b3f24b7c3d440ec6bfea)
 - Application on Chain - [Wish](https://bico.media/047df3e724ca92004e4d1f324d02e3b6f86bb5de46a6f33c210d2aefd94182d5)  [BeeSV](https://bico.media/e701a8d3e70f0542ace1503b1a660aa0a685dfad9151f5fecc82d9a919bf5603)
 - Content on Chain - [Video](https://bico.media/6589ea97bc1bd74ddd782c122594e711d12efed5eac85ccbae432689b9008c4c) [Shem's album](https://bico.media/0f11d8e04040d75d7551badc6e5d0d2e5a88e224d34a4952583ee7d0d83e75c7)
 - [BitChat](https://bitchat.bitdb.network/) - An on-chain chatroom, free for now.
@@ -75,6 +89,8 @@ More info [here](https://bitcoinsv.io).
 - [Electrum Client](https://github.com/you21979/node-electrum-client) - Electrum Protocol Client for Node.js.
 - [bitcoinfilesjs](https://github.com/simpleledger/bitcoinfilesjs) - A JavaScript Library for building transactions for Bitcoin Files Protocol (BFP). [SDK](https://github.com/BitcoinFiles/bitcoinfiles-sdk)
 - ECIES - Encrypt message with Bitcoin PublicKey, decrypt it with PrivateKey. BIE1 format, Electrum/Electron Cash Compatible. [JavaScript](https://github.com/monkeylord/electrum-ecies)/[Go](https://github.com/gitzhou/bitcoin-ecies)
+- [Polynym](https://polynym.io/) - Simple BSV address resolution for Twetch, HandCash, RelayX and PayMail handles.
+- [Go Bitcoin](https://gobitcoinsv.com) - Bitcoin libraries in Golang.
 
 <a name="projects" />
 
@@ -87,6 +103,8 @@ More info [here](https://bitcoinsv.io).
 - [bottle](https://github.com/interplanaria/bottle) - A bitcoin browser.
 - [BSV Editor](http://www.bowmain.co.uk/BSV/index.html) - A Bitcoin script compiler/debugger with GUI.
 - [planter](https://github.com/MerlinB/planter) - A library for fetching and creating Metanet nodes on the Bitcoin SV blockchain.
+- [BoostPow](https://boostpow.com/) - Boost is a signaling method that associates content with spent energy.
+- [MetaStore](https://metastore.app) - Economically incentivized to be the richest & most up-to-date app store on the blockchain.
 
 <a name="infrastructure" />
 
@@ -97,12 +115,14 @@ More info [here](https://bitcoinsv.io).
 - [BitBus](https://bitbus.network/) - Build your app or a smart wallet backend without running a Bitcoin full node.
 - Search Engines - [Oyo](https://oyo.cash/) [trends](https://trends.cash/)
 - [BitIndex](http://www.bitindex.network/) - Easily query utxo's and wallet balances from a simple API.
+- [MatterCloud](https://developers.mattercloud.io/) - A Bitcoin Service Provider.
 
 <a name="powered-by" />
 
 ## Powered by
 - [Money Button](https://www.moneybutton.com/) - A digital currency payments button for websites and apps.
 - [Tokenized](https://tokenized.com/) - A comprehensive platform that makes it easy for users to issue, manage and trade security and utility tokens controlled by low-cost and secure smart contracts.
+- [HandCash](https://handcash.io) - The best way to join Bitcoin apps - download the wallet today!
 
 
 <a name="talks--blogs" />
