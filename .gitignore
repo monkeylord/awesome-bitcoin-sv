@@ -1,0 +1,8 @@
+# Logs
+logs
+*.log
+.DS_STORE
+
+# JetBeans
+.idea
+todo.md
