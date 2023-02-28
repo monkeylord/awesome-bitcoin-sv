@@ -91,6 +91,7 @@ More info [here](https://bitcoinsv.io).
 - ECIES - Encrypt message with Bitcoin PublicKey, decrypt it with PrivateKey. BIE1 format, Electrum/Electron Cash Compatible. [JavaScript](https://github.com/monkeylord/electrum-ecies)/[Go](https://github.com/gitzhou/bitcoin-ecies)
 - [Polynym](https://polynym.io/) - Simple BSV address resolution for Twetch, HandCash, RelayX and PayMail handles.
 - [Go Bitcoin](https://gobitcoinsv.com) - Bitcoin libraries in Golang.
+- [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` HTML element.
 
 <a name="projects" />
 
