@@ -36,16 +36,13 @@ More info [here](https://bitcoinsv.io).
 
 #### Social Media
 - [Twetch](https://twetch.app/) - An on-chain twitter.
-- [WeiBlock](https://weiblock.app) - An on-chain microblog.
 - [Poster.cash](https://poster.cash) - Social network client using the Memo protocol. It's powered by Bitdb and only communicates with a Bitdb node.
 - [MetaTalk](https://metatalk.io/) - An on-chain chatroom, with multiple channels.
 - [BitStagram](https://bitstagram.bitdb.network/) -  Share pictures and get tips.
-- [Yours](https://www.yours.org/) - A social network where you can earn Bitcoin SV if you create value.
-- [Showjob](https://www.showjob.app) - A freelance app with BSV.
 - [BlockPost](https://blockpost.network/) - The decentralized, permissionless, social network.
 - [Relica](https://relica.world/) - Post photos. Make money. Maintain ownership.
 - [BitSurf](https://www.bitsurf.network/) - Alternative application to browse Twetch posts.
-- [WeiBlock](https://weiblock.app/) - Social media application based in China.
+- [WeiBlock](https://weiblock.app/) - Social media application based in China. An on-chain microblog.
 
 #### Storage
 - [Opassum](https://opassum.com/) - An onchain password manager.
@@ -55,12 +52,11 @@ More info [here](https://bitcoinsv.io).
 - [BitDiary](https://bico.media/6c0fd6bc82865d65ca888b8f4532336c3c018745c4f53c591407d74f3e03c5fb) - An on-chain diary.
 
 #### Service & Tool
+- [AssetLayer](https://www.assetlayer.com/) - The fastest, simplest, and most affordable solution to create and manage digital assets.
 - [sCrypt](https://scrypt.io/) - Write Bitcoin smart contracts in a modern high-level programming language.
-- [Dir.sv](https://dir.sv/) - An open source way to make money from organizing links on the blockchain.
 - [etched](https://etched.page/) - An internet archive tool that permanently timestamps and stores web pages and images directly onto bitcoin itself.
-- [PageShot](https://pageshot.bitcoinsv.si/) - Generate image from URL and store it in blockchain.
 - [Codeonchain](http://codeonchain.network/) - Upload a repository to metanet.
-- [PayPresto](https://www.paypresto.co/) - The simplest way to let your users fund data transactions in your BSV app.
+- [TakeItNFT](https://takeitnft.com/) - NFT auction driven by community votes; where every bidder earns, but only one walks away as the owner.
 
 #### Commercial
 - [GoBitFundMe](https://gobitfundme.com/) - GoBitFundMe is designed to help people come together to raise money using the full power of blockchain technology.
@@ -123,7 +119,7 @@ More info [here](https://bitcoinsv.io).
 - [Money Button](https://www.moneybutton.com/) - A digital currency payments button for websites and apps.
 - [Tokenized](https://tokenized.com/) - A comprehensive platform that makes it easy for users to issue, manage and trade security and utility tokens controlled by low-cost and secure smart contracts.
 - [HandCash](https://handcash.io) - The best way to join Bitcoin apps - download the wallet today!
-
+- [RelayX](https://relayx.com/) - Wallet. Mint and sell digital assets. Swap tokens. Club.relayx.com
 
 <a name="talks--blogs" />
 
@@ -139,7 +135,7 @@ More info [here](https://bitcoinsv.io).
 ## Community
 - [Metanet-ICU](https://metanet.icu/)
 - [unwriter's slack](https://www.bitdb.network/atlantis)
-- [Craig S Wright on Twitter](https://twitter.com/proffaustus)
+- [Craig S Wright on Twitter](https://twitter.com/Dr_CSWright)
 - [Reddit](https://www.reddit.com/r/bitcoinsv)
 - [Another Reddit](https://www.reddit.com/r/bitcoincashsv)
 
@@ -149,6 +145,14 @@ More info [here](https://bitcoinsv.io).
 - [bitcoins  the hard way: Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
 - [BSV Planaria框架技术总结一 节点搭建](https://zhuanlan.zhihu.com/p/64697171)
 - [BSV Planaria框架技术总结二 Bitquery](https://zhuanlan.zhihu.com/p/64796784)
+
+#### Offline
+- [Craig S Wright on Twitter](https://twitter.com/proffaustus)
+- [Dir.sv](https://dir.sv/) - An open source way to make money from organizing links on the blockchain.
+- [PageShot](https://pageshot.bitcoinsv.si/) - Generate image from URL and store it in blockchain.
+- [PayPresto](https://www.paypresto.co/) - The simplest way to let your users fund data transactions in your BSV app.
+- [Showjob](https://www.showjob.app) - A freelance app with BSV.
+- [Yours](https://www.yours.org/) - A social network where you can earn Bitcoin SV if you create value.
 
 ## License
 
